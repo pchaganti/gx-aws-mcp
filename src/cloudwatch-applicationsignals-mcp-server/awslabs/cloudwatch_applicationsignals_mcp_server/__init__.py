@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""awslabs.ccapi-mcp-server"""
+"""AWS Application Signals MCP Server."""
 
-__version__ = '1.0.10'
+__version__ = '0.1.12'
